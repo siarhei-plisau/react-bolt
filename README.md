@@ -25,6 +25,7 @@ React Bolt
 This boilerplate contains all you need to start your next React.js project. Simple, robust, well-organized, all you need to do is clone, install and you're ready to start.
 
 I wrote a article for anyone who wants to learn how to build this boilerplate, if you want to learn just click [here](https://medium.freecodecamp.org/a-complete-react-boilerplate-tutorial-from-zero-to-hero-20023e086c4a).
+Russion v. how to creat this react-bolt [here](https://vanillaweb.ru/create-react-boilerplate/)
 
 Check out the lite version [here](https://github.com/dephraiim/react-bolt-lite)
 
